@@ -61,5 +61,4 @@ $ python3 wifijammer.py --interface wlan1mon --channel 6 --aggressive
 This tool is only intended for testing purposes and should be used where there is allowance of having de-authentication tests. The user should have prior consent for testing against the target. The author will not be held responsible regarding any case of misuse. 
 
 ### Author
-Twitter: <a href="//twitter.com/hash3liZer">hash3liZer</a><br>
-Email  : <a href="mailto:admin@shellvoide.com">admin@shellvoide.com</a>
+Email  : <a href="mailto:vigneysharavindh@gmail.com">vigneysharavindh@gmail.com</a>
